@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.419,D:\Программы\RAD Studio\Projects\Project2.dproj=D:\Программы\RAD Studio\Projects\Диплом\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,=D:\Программы\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,D:\Программы\RAD Studio\Projects\Unit2.pas=D:\Программы\RAD Studio\Projects\Диплом\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,D:\Программы\RAD Studio\Projects\Unit2.dfm=D:\Программы\RAD Studio\Projects\Диплом\Unit2.dfm</Transaction>
+    <Transaction>2019.11.09 10:32:08.840,=D:\Программы\RAD Studio\Projects\Диплом\Unit1.pas</Transaction>
+    <Transaction>2019.11.09 10:32:29.853,D:\Программы\RAD Studio\Projects\Диплом\sad.pas=D:\Программы\RAD Studio\Projects\Диплом\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
