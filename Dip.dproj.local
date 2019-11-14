@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.747,D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Project2.dproj=D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Dip.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,D:\Программы\RAD Studio\Projects\Uplan_editing.dfm=D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Uplan_editing.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,D:\Программы\RAD Studio\Projects\Uplan_editing.pas=D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Uplan_editing.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Unit1.pas=D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Uplan_pro.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.978,D:\Программы\RAD Studio\Projects\Unit2.pas=D:\Программы\RAD Studio\Projects\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,=D:\Программы\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,D:\Программы\RAD Studio\Projects\Unit3.dfm=D:\Программы\RAD Studio\Projects\Uplan_editing.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.841,D:\Программы\RAD Studio\Projects\Main.pas=D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.405,=D:\Программы\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,=D:\Программы\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.547,D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Uplan_pro.pas=D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Uplan_procedures.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.746,D:\Программы\RAD Studio\Projects\Project2.dproj=D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.829,=D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.841,D:\Программы\RAD Studio\Projects\Main.dfm=D:\Программы\RAD Studio\Projects\Диплом\Без интерфейса\В1\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.978,D:\Программы\RAD Studio\Projects\Unit2.dfm=D:\Программы\RAD Studio\Projects\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,D:\Программы\RAD Studio\Projects\Unit3.pas=D:\Программы\RAD Studio\Projects\Uplan_editing.pas</Transaction>
+  </Transactions>
+</BorlandProject>
